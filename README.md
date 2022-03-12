@@ -1,7 +1,7 @@
 <h1>DJANGO-AUTH-PROJECT</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=DJANGO&color=blue&style=for-the-badge&logo=PYTHON"/>
+  <img src="https://img.shields.io/static/v1?label=Python&message=DJANGO&color=blue&style=for-the-badge&logo=PYTHON"/>
 
    <img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20MODELO&color=RED&style=for-the-badge"/>
 </p>
